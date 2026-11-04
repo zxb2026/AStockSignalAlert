@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0E1117</color>
+    <color name="bg_card">#1A1F29</color>
+    <color name="bg_card_pressed">#232936</color>
+    <color name="text_primary">#E6E8EB</color>
+    <color name="text_secondary">#8B949E</color>
+</resources>
